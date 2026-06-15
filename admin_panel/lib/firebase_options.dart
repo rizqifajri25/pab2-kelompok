@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyA4GBCSfeb87POTDVLUaGrfg_1gJU4YPKA',
-    appId: '1:946157853827:web:15e4846a00a6393930cfb6',
+    appId: '1:946157853827:web:1b9e59fc5e06f99b30cfb6',
     messagingSenderId: '946157853827',
     projectId: 'padel-finder-palembang',
     authDomain: 'padel-finder-palembang.firebaseapp.com',
     storageBucket: 'padel-finder-palembang.firebasestorage.app',
-    measurementId: 'G-B6CNZXCX46',
+    measurementId: 'G-VLCXZT3C49',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDG2JndDI3OngiSC51xyebiW-oCSUjErRc',
-    appId: '1:946157853827:android:f82696709289b01330cfb6',
+    appId: '1:946157853827:android:1cc5af2a60864a7330cfb6',
     messagingSenderId: '946157853827',
     projectId: 'padel-finder-palembang',
     storageBucket: 'padel-finder-palembang.firebasestorage.app',
@@ -60,29 +60,29 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBbqM1gX5Mg-khVt6Vs7mJGekMNIDDyrU4',
-    appId: '1:946157853827:ios:4342d655bc5775f630cfb6',
+    appId: '1:946157853827:ios:df6a74cdda647eac30cfb6',
     messagingSenderId: '946157853827',
     projectId: 'padel-finder-palembang',
     storageBucket: 'padel-finder-palembang.firebasestorage.app',
-    iosBundleId: 'com.example.adminPanel',
+    iosBundleId: 'com.example.padelFinderAdmin',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyBbqM1gX5Mg-khVt6Vs7mJGekMNIDDyrU4',
-    appId: '1:946157853827:ios:4342d655bc5775f630cfb6',
+    appId: '1:946157853827:ios:df6a74cdda647eac30cfb6',
     messagingSenderId: '946157853827',
     projectId: 'padel-finder-palembang',
     storageBucket: 'padel-finder-palembang.firebasestorage.app',
-    iosBundleId: 'com.example.adminPanel',
+    iosBundleId: 'com.example.padelFinderAdmin',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyA4GBCSfeb87POTDVLUaGrfg_1gJU4YPKA',
-    appId: '1:946157853827:web:5306f36d5c3e926730cfb6',
+    appId: '1:946157853827:web:fb75e724f45fb05630cfb6',
     messagingSenderId: '946157853827',
     projectId: 'padel-finder-palembang',
     authDomain: 'padel-finder-palembang.firebaseapp.com',
     storageBucket: 'padel-finder-palembang.firebasestorage.app',
-    measurementId: 'G-HKTRXGBE8C',
+    measurementId: 'G-9SD46JSFX1',
   );
 }
